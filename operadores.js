@@ -17,7 +17,7 @@ console.log("el ressultado es:" + resta)
 let años = 17;
 años--;
 console.log( años)
-//multiplicacion
+//multiplicacion 
 let mult1=15;
 let mult2=2;
 let multiplicacion= mult1*mult2;
